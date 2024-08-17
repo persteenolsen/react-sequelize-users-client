@@ -35,6 +35,9 @@ function Login({ history, location }) {
         <Formik initialValues={initialValues} validationSchema={validationSchema} onSubmit={onSubmit}>
             {({ errors, touched, isSubmitting }) => (
                 <Form>
+                     
+                    &nbsp;&nbsp;&nbsp;<b>Last updated: </b>17-08-2024<br /><br />
+
                     <h3 className="card-header">Login</h3>
                     <div className="card-body">
                         <div className="form-group">
