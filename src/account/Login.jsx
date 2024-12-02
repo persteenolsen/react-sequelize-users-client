@@ -36,7 +36,7 @@ function Login({ history, location }) {
             {({ errors, touched, isSubmitting }) => (
                 <Form>
                      
-                    &nbsp;&nbsp;&nbsp;<b>Last updated: </b>17-08-2024<br /><br />
+                    &nbsp;&nbsp;&nbsp;<b>Last updated: </b>02-12-2024<br /><br />
 
                     <h3 className="card-header">Login</h3>
                     <div className="card-body">

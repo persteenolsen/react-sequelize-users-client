@@ -6,7 +6,7 @@ Working towards a Node.js Web API
 
 # Last updated
 
-- 17-08-2024
+- 02-12-2024
 
 # Functionality of the Web App
 
